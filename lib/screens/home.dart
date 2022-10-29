@@ -84,7 +84,7 @@ class _HomeState extends State<Home> {
           BottomNavigationBarItem(
               icon: Icon(Icons.airplane_ticket_outlined), label: 'home'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.settings_outlined), label: 'microphone'),
+              icon: Icon(Icons.settings_outlined), label: 'setting'),
         ],
       ),
     );
