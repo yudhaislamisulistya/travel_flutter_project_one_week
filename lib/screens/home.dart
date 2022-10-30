@@ -82,7 +82,7 @@ class _HomeState extends State<Home> {
           BottomNavigationBarItem(
               icon: Icon(Icons.favorite_outline), label: 'calendar'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.airplane_ticket_outlined), label: 'home'),
+              icon: Icon(Icons.airplane_ticket_outlined), label: 'ticket'),
           BottomNavigationBarItem(
               icon: Icon(Icons.settings_outlined), label: 'setting'),
         ],
